@@ -6,6 +6,8 @@
 <h3>Little facts about me 👤</h3>
 
 - 🔭 I’m currently studying as college student
+- 💡 Passionate about technology, coding, and problem-solving  
+- 🌏 Love to explore new programming languages and frameworks
 <br>
 
 ---
