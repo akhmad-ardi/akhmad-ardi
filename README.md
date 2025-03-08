@@ -49,10 +49,9 @@
 <br>
 <p align="center">
   <a href="https://github.com/akhmad-ardi">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=akhmad-ardi&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/akhmad-ardi">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmad-ardi&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akhmad-ardi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhmad-ardi&layout=pie&theme=dark"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhmad-ardi&radius=16&hide_border=true&theme=github&area=true&order=5" height="300" alt="activity-graph graph"  />
   </a>
 </p>
 </details>
@@ -73,7 +72,6 @@
   </a>
   <br>
   
-<p align="right" > Readme Template by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=akhmad-ardi1711&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
 <!---
 akhmad-ardi/akhmad-ardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
