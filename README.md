@@ -1,10 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ardi</h1>
 
-<h3>Little facts about me 👤</h3>
+As a Full Stack Developer, I specialize in building robust, scalable, and user-centric web applications by integrating modern frontend and backend technologies. My expertise spans the entire development cycle from crafting responsive interfaces to architecting efficient APIs and database systems. In addition, I leverage Machine Learning to enhance applications with intelligent features such as personalized recommendations, predictive analytics, and natural language processing, ensuring the solutions I deliver are not only functional but also smart and impactful.
 
-- 🔭 I’m currently studying as college student
-- 💡 Passionate about technology, coding, and problem-solving  
-- 🌏 Love to explore new programming languages and frameworks
 <br>
 
 ---
@@ -14,16 +11,21 @@
   ✨ Tech stack currently using:
 </summary>
    <br>
-<code><a href="https://laravel.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></a></code>
+<code><a href="https://hapi.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/hapijs/hapijs-icon.svg"></a></code>
+<code><a href="https://nestjs.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></a></code>
+<code><a href="https://expressjs.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a></code>
+<code><a href="https://laravel.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-
+<code><a href="https://azure.microsoft.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
   
 </details>
 <br>
