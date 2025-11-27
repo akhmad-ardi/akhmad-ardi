@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ardi</h1>
 
-As a Full Stack Developer, I specialize in building robust, scalable, and user-centric web applications by integrating modern frontend and backend technologies. My expertise spans the entire development cycle from crafting responsive interfaces to architecting efficient APIs and database systems. In addition, I leverage Machine Learning to enhance applications with intelligent features such as personalized recommendations, predictive analytics, and natural language processing, ensuring the solutions I deliver are not only functional but also smart and impactful.
+As a Full Stack Developer, I build scalable, user-focused web applications using modern frontend and backend technologies. I also leverage Machine Learning to deliver smarter, more personalized, and data-driven experiences.
 
 <br>
 
