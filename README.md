@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ardi</h1>
 
-As a Full Stack Developer, I build scalable, user-focused web applications using modern frontend and backend technologies. I also leverage Machine Learning to deliver smarter, more personalized, and data-driven experiences.
+As a Fullstack Developer, I build scalable, user-focused web applications using modern frontend and backend technologies. I also leverage Machine Learning to deliver smarter, more personalized, and data-driven experiences.
 
 <br>
 
