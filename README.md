@@ -26,6 +26,7 @@ As a Fullstack Developer, I build scalable, user-focused web applications using 
 <code><a href="https://azure.microsoft.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code></code>
   
 </details>
 <br>
@@ -35,7 +36,6 @@ As a Fullstack Developer, I build scalable, user-focused web applications using 
   🌱 Looking forward to learn:
 </summary>
    <br>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code></code>
 </details>
 <br>
 
