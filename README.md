@@ -35,6 +35,7 @@ As a Fullstack Developer, I build scalable, user-focused web applications using 
 <summary>
   🌱 Looking forward to learn:
 </summary>
+  <code><a href="https://godotengine.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg"></a></code></code>
    <br>
 </details>
 <br>
